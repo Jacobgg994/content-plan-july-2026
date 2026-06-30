@@ -9,10 +9,9 @@
 
 | KPI | เป้า | เจ้าของ |
 |-----|------|---------|
-| Content pieces ทั้งหมด | **88+ ชิ้น** (22+/สัปดาห์) | SALMON 🎨 |
+| Content pieces ทั้งหมด | **75+ ชิ้น** (19+/สัปดาห์) | SALMON 🎨 |
 | GemLogin sign-ups | **50 คน** | KAMU 🦅 |
 | GemPhoneFarm sign-ups | **20 คน** | KAMU 🦅 |
-| QCCAP waitlist | **100 คน** | KAMU 🦅 |
 | Engagement rate | **3%+** | SALMON 🎨 |
 | CAC | **<$10** | KOMHAS 📈 |
 
@@ -50,7 +49,7 @@
 | **LINE OA** | 2-3 ครั้ง/สัปดาห์ | 10 | Existing customers, CRM |
 | **Instagram** | 4 ครั้ง/สัปดาห์ | 18 | Lifestyle, brand building |
 | **YouTube** | 2 ครั้ง/สัปดาห์ | 8 | Tutorial, deep dive |
-| **LinkedIn** | 2 ครั้ง/สัปดาห์ | 8 | B2B, QCCAP, Covertia |
+| **LinkedIn** | 2 ครั้ง/สัปดาห์ | 6 | B2B, Covertia |
 | **รวม** | | **88** | |
 
 ---
@@ -66,7 +65,7 @@
 | 2 | GemLogin vs ทำมือ | "1 ชม. vs 1 คลิก — ต่างกันแค่ไหน?" ⚡ | 30 วิ |
 | 3 | 3 สิ่งที่ GemLogin ทำแทนคุณได้ | "รู้ยัง? มีระบบที่ทำงานให้คุณ 24/7" 🔥 | 45-60 วิ |
 | 4 | GPF — มือถือ 60 เครื่อง | "มือถือ 60 เครื่อง ควบคุมจากจอเดียว" 🤖 | 30 วิ |
-| 5 | QCCAP — AI เพื่อธุรกิจ | "ลองนึกภาพ AI ที่ตอบแชทลูกค้าให้คุณ 24/7" 🤖 | 45 วิ |
+| 5 | GemLogin — ภาพรวมฟีเจอร์ | "ถ้าคุณมีผู้ช่วยจัดการบัญชีให้คุณ...จะเป็นยังไง?" 🤖 | 45 วิ |
 
 ### Facebook (5)
 | # | เรื่อง | ประเภท |
@@ -74,7 +73,7 @@
 | 1 | "รู้จัก GemLogin — Automation Tool สัญชาติไทย" | Medium Story |
 | 2 | "ทำไมธุรกิจไทยถึงต้องมี AI Agent" | Long Educational |
 | 3 | GPF คืออะไร? — Visual infographic | Medium + รูป |
-| 4 | QCCAP — Multi-Agent AI ตัวแรกจากไทย | Medium + ลิงก์ |
+| 4 | GemLogin — ทำไมถึงเป็น Automation Tool ที่ใช่สำหรับคุณ | Medium + ลิงก์ |
 | 5 | "ปี 2026 — ปีที่ธุรกิจไทยต้อง automate" | Short Opinion |
 
 ### LINE OA (2)
@@ -100,8 +99,8 @@
 ### LinkedIn (2)
 | # | เรื่อง |
 |---|-------|
-| 1 | "Introducing QCCAP — Multi-Agent AI for Business" (ENG) |
-| 2 | "Why Thai SMEs Need Automation in 2026" (ENG) |
+| 1 | "Why Thai SMEs Need Automation in 2026" (ENG) |
+| 2 | "GemLogin: The Automation Platform Powering Thai Businesses" (ENG) |
 
 ---
 
@@ -165,7 +164,7 @@
 | 1 | "ลูกค้า XYZ — ลดเวลางานจาก 8 ชม. เหลือ 1 ชม." | "ฟังเรื่องจริงจากคนใช้จริง" 😱 |
 | 2 | GPF — "Affiliate รายหนึ่งใช้ฟาร์มมือถือ เพิ่มรายได้ 3X" | "จาก 10K → 30K ใน 1 เดือน" 🤯 |
 | 3 | "เอเจนซี่ใช้ GemLogin จัดการ 200+ ลูกค้า" | "1 คน จัดการ 200 ลูกค้า — เป็นไปได้?" 🔥 |
-| 4 | Before/After — QCCAP ตอบแชทแทนมนุษย์ | "ก่อนมี AI vs หลังมี AI — ดูความต่าง" ⚡ |
+| 4 | Before/After — GemLogin ทำงานแทนคุณ | "ก่อนมี Automation vs หลังใช้ GemLogin — ดูความต่าง" ⚡ |
 | 5 | "ผลลัพธ์จริงจากผู้ใช้ GemLogin" — testimonial compilation | "ฟังจากปากคนใช้" 📊 |
 
 ### Facebook (5)
@@ -173,7 +172,7 @@
 |---|-------|--------|
 | 1 | Case Study ฉบับเต็ม: เอเจนซี่การตลาด ลดต้นทุน 60% | Long Story |
 | 2 | Screenshots จากผู้ใช้จริง | Medium + รูป |
-| 3 | "QCCAP — AI ที่ตอบแชท LINE OA แทนคุณ 24/7" | Medium Story |
+| 3 | "GemLogin — จัดการ LINE OA + FB พร้อมกันในที่เดียว" | Medium Story |
 | 4 | "GPF — ฟาร์มมือถือที่ช่วยให้ affiliate scale ได้" | Medium + infographic |
 | 5 | Community spotlight — "ใครใช้ automation แล้วเวิร์คบ้าง?" | Short + Engagement |
 
@@ -201,7 +200,7 @@
 ### LinkedIn (2)
 | # | เรื่อง |
 |---|-------|
-| 1 | "QCCAP Case Study: How a Thai Agency Scaled 10x" (ENG) |
+| 1 | "GemLogin Case Study: How a Thai Agency Scaled Their Operations" (ENG) |
 | 2 | "Customer Success Story: Automation ROI in 30 Days" (ENG) |
 
 ---
@@ -216,7 +215,7 @@
 | 1 | "ทดลองฟรี 14 วัน — ไม่ต้องใช้บัตรเครดิต" | "ฟรี! ไม่ต้องกรอกบัตร — ลองเลย" 🔥 |
 | 2 | "วิธีสมัคร GemLogin ใน 3 นาที" | "3 นาทีก็เริ่มใช้ได้" ⚡ |
 | 3 | "เปรียบเทียบ: ก่อนใช้ vs หลังใช้ trial" | "14 วันที่เปลี่ยนวิธีการทำงานคุณ" 🤯 |
-| 4 | "QCCAP — AI Agent ตัวแรกของคุณ" | "สร้าง AI ส่วนตัวใน 5 นาที" 🔥 |
+| 4 | "GemLogin Pro — ฟีเจอร์ที่คุณไม่เคยรู้" | "GemLogin Pro ทำอะไรได้บ้างที่ Basic ทำไม่ได้?" 🔥 |
 | 5 | "รีบ! โปรแรงส่งท้ายเดือน" | "โปรนี้แค่ถึงสิ้นเดือน!" 😱 |
 
 ### Facebook (5)
@@ -224,7 +223,7 @@
 |---|-------|--------|
 | 1 | "ทดลอง GemLogin ฟรี 14 วัน — ลงทะเบียนเลย" | Medium + CTA |
 | 2 | "เปรียบเทียบแพ็คเกจ: Basic vs Pro" | Medium + pricing table |
-| 3 | "QCCAP — เข้าร่วม waitlist วันนี้ ลด 50% เมื่อ launch" | Medium + CTA |
+| 3 | "GemLogin — สมัครวันนี้ เริ่มต้นเพียง \$8/เดือน" | Medium + CTA |
 | 4 | "GPF — สมัครวันนี้ เริ่มต้นเพียง $8/เดือน" | Medium + CTA |
 | 5 | "ถาม-ตอบ: ทุกคำถามที่คนถามก่อนสมัคร" | Long FAQ |
 
@@ -248,12 +247,12 @@
 | # | เรื่อง |
 |---|-------|
 | 1 | "GemLogin Full Demo — ตั้งแต่สมัครถึงใช้จริง" |
-| 2 | "QCCAP — ทัวร์ AI Agent ที่จะเปลี่ยนธุรกิจคุณ" |
+| 2 | "GemLogin Full Tutorial — ตั้งแต่เริ่มต้นถึง automate ได้จริง" |
 
 ### LinkedIn (2)
 | # | เรื่อง |
 |---|-------|
-| 1 | "QCCAP Early Access — Join 100+ Businesses on the Waitlist" (ENG) |
+| 1 | "GemLogin — The Automation Platform for Thai Business" (ENG) |
 | 2 | "Why Now Is the Time to Automate Your Thai Business" (ENG) |
 
 ---
@@ -307,7 +306,7 @@
 |---------|-----------|
 | Engagement rate | TikTok/FB/IG native analytics |
 | CTR (link clicks) | UTM parameters |
-| Sign-ups | GemLogin/GPF/QCCAP dashboard |
+| Sign-ups | GemLogin/GPF dashboard |
 | Conversion rate | Trial → Paid ratio |
 
 ---
