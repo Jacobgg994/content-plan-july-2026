@@ -394,81 +394,80 @@ text: "เฉพาะสมาชิก LINE — 30 วันฟรี!"
 
 ---
 
-#### Broadcast #9 | พฤหัส 24 ก.ค. | 12:00 | Promotional
+#### Broadcast #9 | พฤหัส 24 ก.ค. | 20:00 | Educational
 
 <details>
 <summary>📋 Ready-to-use</summary>
 
 **📷 รูป:**
 ```
-Canva 600×400 — countdown timer ขนาดใหญ่
-text overlay: "เหลือ 7 วัน — ลด 30% annual plan"
-สีส้ม-แดง สร้าง urgency
+Canva 600×400 — ภาพ 3 workflows แสดงเป็น flow diagram ง่ายๆ
+text overlay: "3 Workflow ที่ใช้แล้วชีวิตง่ายขึ้นทันที"
 ```
 
 **📝 ข้อความ:**
 ```
-⏰ เหลือ 7 วันสุดท้าย — โปรส่งท้ายเดือนกรกฎาคม
+🛠 3 Workflow ยอดฮิต — ที่คนใช้ GemLogin ทำซ้ำทุกวัน
 
-สมัคร annual plan:
-ปกติ $96/ปี ($8/เดือน)
-👉 เหลือ $67/ปี ($5.6/เดือน)
-———
-ประหยัดไป $29 — เท่ากับฟรีไป 3.6 เดือน
+1. 🕐 ตั้งเวลาโพสต์ Facebook ทีเดียว 10+ เพจ
+   → ไม่ต้องคอยนั่งโพสต์เองตอนเที่ยงคืน
 
-หลัง 31 ก.ค. กลับราคาปกติทันที
-ไม่ขยาย ไม่ยืด ไม่มีรอบสอง
+2. 📥 เก็บข้อมูล lead จาก LINE OA → เข้า CRM อัตโนมัติ
+   → ไม่ต้อง copy-paste เอง
 
-กดเลย 👇
+3. 🔄 Auto reply ลูกค้าด้วย template
+   → ตอบไว — ลูกค้าไม่ต้องรอ
+
+แต่ละ Workflow ใช้เวลาตั้งครั้งแรก 5 นาที
+แล้วมันจะทำงานให้คุณไปตลอด 🚀
 ```
 
 **🔘 ปุ่ม:**
 ```
-ปุ่ม 1: [🔥 สมัคร annual ลด 30%] → https://gemlogin.com/pricing?plan=annual&coupon=JULY30&utm_source=lineoa&utm_medium=broadcast&utm_campaign=july2026&utm_content=w4-2-annual
-ปุ่ม 2: [📊 ดูแพ็คเกจทั้งหมด]    → https://gemlogin.com/pricing?utm_source=lineoa&utm_medium=broadcast&utm_campaign=july2026&utm_content=w4-2-pricing
+ปุ่ม 1: [📖 ดูวิธีตั้งค่า Workflow] → https://youtube.com/@gemlogin?utm_source=lineoa&utm_medium=broadcast&utm_campaign=july2026&utm_content=w4-2-workflows
+ปุ่ม 2: [🚀 ทดลองฟรี]              → https://gemlogin.com/signup?utm_source=lineoa&utm_medium=broadcast&utm_campaign=july2026&utm_content=w4-2-trial
 ```
 
-🎯 เป้า: ปิด annual plan อย่างน้อย 5 คน
+🎯 เป้า: Educate → แสดง value จริงของ product → กระตุ้นให้ลอง
 </details>
 
 ---
 
-#### Broadcast #10 | เสาร์ 26 ก.ค. | 12:00 | Engagement
+#### Broadcast #10 | เสาร์ 26 ก.ค. | 12:00 | Social Proof
 
 <details>
 <summary>📋 Ready-to-use</summary>
 
 **📷 รูป:**
 ```
-Canva 600×400 — ภาพประตูที่กำลังเปิด พร้อมแสงสว่าง
-text overlay: "สิงหาคมนี้ — อะไรกำลังจะมา?"
-โทนสีอบอุ่น + mysterious
+Canva 600×400 — infographic สรุปตัวเลขผู้ใช้
+text overlay: "2,800+ คน automate แล้ว — คุณล่ะ?"
 ```
 
 **📝 ข้อความ:**
 ```
-ขอบคุณที่อยู่ด้วยกันมาตลอดเดือนกรกฎาคม 💚
+📊 ตัวเลขจากผู้ใช้ GemLogin ในเดือนกรกฎาคม
 
-เดือนแรกของการ automate ไปด้วยกัน —
-เราได้แชร์ 10+ ทิป, 3+ คลิปสอน,
-และหลายคนเริ่มทดลองใช้แล้ว 🚀
+👥 2,800+ คน ใช้ GemLogin อยู่
+⚡ 44 workflows ถูกใช้ทุกวัน
+🔌 MCP v0.4.0 — dev เริ่ม integrate แล้ว
+📱 GPF — 60+ มือถือ automate 24/7
 
 ———
 
-พรุ่งนี้เราจะประกาศของใหม่:
-✨ [เซอร์ไพรส์] — สิ่งที่หลายคนถามหา
-✨ [เซอร์ไพรส์] — ฟีเจอร์ใหม่พร้อมใช้
-✨ [เซอร์ไพรส์] — สำหรับสมาชิก LINE ก่อนใคร
+"ของแบบนี้ — มันต้องได้ลองเอง"
 
-ทายไว้ในใจก่อนนะ 🤫
+ถ้ายังไม่ได้ลอง —
+กดปุ่มข้างล่าง ใช้เวลา 2 นาที
+แล้วคุณจะรู้ว่าทำไมคนไม่กลับไปทำมืออีก
 ```
 
 **🔘 ปุ่ม:**
 ```
-ปุ่ม 1: [👀 ดูทีเซอร์] → https://gemlogin.com/august-sneak-peek?utm_source=lineoa&utm_medium=broadcast&utm_campaign=july2026&utm_content=w4-3-teaser
+ปุ่ม 1: [🚀 เริ่มทดลองฟรี] → https://gemlogin.com/signup?utm_source=lineoa&utm_medium=broadcast&utm_campaign=july2026&utm_content=w4-3-final
 ```
 
-🎯 เป้า: Keep excitement → ลด unblock → รับ August ด้วยฐานสมาชิกที่แข็งแรง
+🎯 เป้า: Social proof ด้วยตัวเลขจริง → ผลักดันให้ลองก่อนสิ้นเดือน
 </details>
 
 ---
